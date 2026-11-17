@@ -32,7 +32,7 @@
   // Shorter title, displayed in header of each file
   title-short: "Writing in Typst",
 
-  thesis-type: "Projektarbeit 1 (T3_2000)",
+  thesis-type: "Projektarbeit 1 (T4_2000)",
   examination: "Bachelor of Science (B.Sc.)",
   study: "Computer Science",
 
@@ -41,7 +41,7 @@
       firstname: "John",
       lastname: "Doe",
       matriculation-number: "0000000",
-      course: "TINF24B2",
+      course: "TINF26B1",
       // remove if you do not have a signature image
       signature: image("assets/placeholder-signature.png"),
     ), // make sure to keep this comma after the first author if there is only one author!
